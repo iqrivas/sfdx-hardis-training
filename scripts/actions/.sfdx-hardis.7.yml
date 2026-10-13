@@ -7,13 +7,13 @@ commandsPostDeploy:
       sfdmuProject: HeliosCrewRefData
     runOnlyOnceByOrg: true
     context: process-deployment-only
-  - id: e3c3f8b6-f494-4626-a332-6def66e4dd04
+  - id: e1aa31e2-cf26-4509-8798-e377830ed365
     label: Schedule the nightly crew capacity recalculation
     type: schedule-batch
     command: ""
     parameters:
-      cronExpression: 0 0 2 * * ? (every night at 02:00)
       className: CrewCapacityBatch
+      cronExpression: 0 0 2 * * ?
       jobName: Helios crew capacity nightly
     runOnlyOnceByOrg: true
     context: process-deployment-only
