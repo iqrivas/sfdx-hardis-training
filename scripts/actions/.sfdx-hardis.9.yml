@@ -1,0 +1,11 @@
+commandsPostDeploy:
+  - id: 3a5c52af-6da6-43f5-b34d-12a99f415b8a
+    label: Schedule the nightly crew capacity recalculation
+    type: schedule-batch
+    command: 0 0 2 * * ?
+    parameters:
+      className: CrewCapacityBatch
+      cronExpression: 0 0 2 * * ?
+      jobName: Helios crew capacity nightly
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
