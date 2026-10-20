@@ -191,6 +191,10 @@
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
+        <tab>Handover_Item__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
         <tab>Installation__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
