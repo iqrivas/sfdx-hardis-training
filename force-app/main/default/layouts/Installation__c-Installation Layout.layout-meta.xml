@@ -64,6 +64,15 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
+    <relatedLists>
+        <fields>Sequence__c</fields>
+        <fields>Label__c</fields>
+        <fields>Is_Done__c</fields>
+        <fields>NAME</fields>
+        <relatedList>Handover_Item__c.Installation__c</relatedList>
+        <sortField>Sequence__c</sortField>
+        <sortOrder>Asc</sortOrder>
+    </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>
