@@ -97,9 +97,6 @@
         <layout>DigitalWallet-Digital Wallet Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>DynamicDataCapture-Dynamic Data Capture Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Entitlement-Entitlement Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
