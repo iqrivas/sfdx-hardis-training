@@ -3,4 +3,8 @@
 # DevOps Pipeline panel: gear menu > Pipeline Settings, scope Branch: uat.
 targetUsername: test-1gelzjqzcbti@example.com
 instanceUrl: https://test.salesforce.com
-mergeTargets: []
+mergeTargets:
+  - preprod
+codingAgentAutoFix: false
+packageNoOverwritePath: ""
+skipCodeCoverage: false
