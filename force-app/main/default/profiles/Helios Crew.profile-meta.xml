@@ -103,15 +103,6 @@
         <layout>EntityMilestone-Object Milestone Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Expense-Expense Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ExpenseReport-Expense Report Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ExpenseReportEntry-Expense Report Entry Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -119,12 +110,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>FinanceTransaction-Finance Transaction Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>FldSvcObjChg-Field Service Object Change Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>FldSvcObjChgDtl-Field Service Object Change Detail Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</layout>
@@ -143,12 +128,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>LoginAnomalyEventStore-Login Anomaly Event Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MaintenanceWorkRule-Maintenance Work Rule Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>OperatingHoursHoliday-Operating Hours Holiday Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Panel_Batch__c-Panel Batch Layout</layout>
@@ -178,24 +157,6 @@
         <layout>ProcessException-Process Exception Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ProductConsumedState-Product Consumed State Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ProductServiceCampaign-Product Service Campaign Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ProductServiceCampaignItem-Product Service Campaign Item Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ProductTransferState-Product Transfer State Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>RecordsetFilterCriteria-Recordset Filter Criteria Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>RecordsetFilterCriteriaRule-Recordset Filter Criteria Rule Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Refund-Refund Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -203,21 +164,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ReportAnomalyEventStore-Report Anomaly Event Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SchedulingConstraint-Scheduling Constraint Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SchedulingObjective-Scheduling Objective Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SchedulingRule-Scheduling Rule Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SchedulingWorkspace-Scheduling Workspace Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SchedulingWorkspaceTerritory-Scheduling Workspace Territory Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>SecurityDefenseActionEventStore-Security Defense Action Event Store Layout</layout>
@@ -229,61 +175,13 @@
         <layout>ServiceContract-Service Contract Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ServiceResourcePreference-Service Resource Preference Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>SessionHijackingEventStore-Session Hijacking Event Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ShiftPattern-Shift Pattern Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ShiftPatternEntry-Shift Pattern Entry Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ShiftSchedulingOperation-Shift Scheduling Operation Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ShiftTemplate-Shift Template Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Swarm-Swarm Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SwarmMember-Swarm Member Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ThreatDetectionFeedback-Threat Detection Feedback Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>TravelMode-Travel Mode Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WarrantyTerm-Warranty Term Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkCapacityAvailability-Work Capacity Availability Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkPlan-Work Plan Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkPlanSelectionRule-Work Plan Selection Rule Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkPlanTemplate-Work Plan Template Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkPlanTemplateEntry-Work Plan Template Entry Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkStep-Work Step Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>WorkStepTemplate-Work Step Template Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Crew_Capacity__c</tab>
